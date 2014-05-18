@@ -17,3 +17,6 @@ python qr-dump.py -p images -o output.csv
 Where "images" is a directory containing image files you intend to read QR code
 data from.
 
+## License
+
+Released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
