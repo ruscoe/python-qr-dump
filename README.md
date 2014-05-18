@@ -1,6 +1,6 @@
 # Python-QR-Dump
 
-A Python script that reads images containing QR codes and outputs the decoded
+A Python script that reads QR codes from image files and outputs the decoded
 values as CSV.
 
 ## Requirements
